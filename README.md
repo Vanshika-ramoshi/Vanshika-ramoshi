@@ -1,28 +1,17 @@
-## ✨ About Me
+# Hi 👋, I'm Vanshika Ramoshi
 
-<h1 align="center">Hi👋 I'm Vanshika</h1>
+### 💻 Java Full Stack Developer
 
-<h3 align="center">
-Bachelor of Computer Application Graduate | Software Developer | Software Testing Enthusiast
-</h3>
+A passionate Java Full Stack Developer and fresher seeking software development opportunities. I have a strong foundation in Core Java, Advanced Java, Spring Boot, MySQL, HTML, CSS, and JavaScript. I enjoy building web applications, solving programming problems, and continuously learning new technologies.
 
-<p align="center">
-💻 Building applications &nbsp; | &nbsp; 🧪 Testing software &nbsp; | &nbsp; 🚀 Learning every day
-</p>
-
----
-
-## 👩‍💻 About Me
-
-✨ Passionate about **Software Development and Software Testing**
-💡 I enjoy building web applications, solving problems, and finding bugs
-🌱 Currently learning **Java, JavaScript, React, SQL, and Automation Testing**
-🧪 Interested in **Manual Testing, Automation Testing, SDLC, and STLC**
-🎯 Looking for opportunities to grow as a **Software Developer and Test Engineer**
+- 🌱 I’m currently learning **Spring Boot, REST APIs & Microservices**
+- 💬 Ask me about **Core Java, Advanced Java, MySQL, HTML, CSS, JavaScript & Spring Boot**
+- 🔭 I’m currently working on **Java Full Stack Projects**
+- ⚡ Fun fact: I enjoy learning new technologies and solving coding challenges.
 
 ---
 
-## 🌐 Socials:
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-ramoshi-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikaramoshi47@gmail.com)
@@ -31,55 +20,97 @@ Bachelor of Computer Application Graduate | Software Developer | Software Testin
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Technical Skills
 
-<p align="left">
+### 🌐 Frontend
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
+### ⚙️ Backend & Frameworks
 
-## 📌 What I’m Working On
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-🔭 Building projects to improve my development skills
-🧪 Practicing software testing and writing test cases
-📚 Strengthening my knowledge of Java, SQL, and backend development
-🚀 Learning new technologies and improving every day
+- Core Java
+- Advanced Java
+- Spring Boot
+- JDBC
+- Servlets
+- JSP
+- REST APIs
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Maven
 
 ---
 
+# 🚀 Projects
 
-## 📊 GitHub Statistics
+## 🛒 Fresh Mart – E-Commerce Grocery Store
+
+A full-stack grocery shopping web application where users can browse products, manage their cart, and place orders.
+
+### Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Flask / Django
+- MySQL
+
+---
+
+## 🧮 Math Quiz Application
+
+An interactive Python-based quiz application that allows users to solve mathematical questions and receive their scores.
+
+### Technologies Used
+
+- Python
+- Tkinter
+
+---
+
+# 📚 Currently Learning
+
+```text
+Java
+   ↓
+Advanced Java
+   ↓
+JDBC
+   ↓
+Servlets & JSP
+   ↓
+Spring
+   ↓
+Spring Boot
+   ↓
+REST APIs
+   ↓
+Spring Security
+   ↓
+Microservices
 
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika-ramoshi&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-
-  ⭐ <i>“Keep learning, keep building, and keep improving.”</i> ⭐
-</p>
